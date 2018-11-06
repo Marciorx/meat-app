@@ -496,6 +496,22 @@
         }
       ],
       "id": 8
+    },
+    {
+      "name": "juliana",
+      "email": "juliana@gmail.com",
+      "emailConfirmation": "juliana@gmail.com",
+      "address": "Rua A",
+      "number": "0",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 9
     }
   ]
 }
